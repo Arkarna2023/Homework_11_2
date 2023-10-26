@@ -1,5 +1,5 @@
 def get_capital_letters(value):
-    """возвращает заглавные буквы"""
+    """функция, возвращает строку заглавными буквами"""
     return value.upper()
 
 def get_capital_letter(value):
